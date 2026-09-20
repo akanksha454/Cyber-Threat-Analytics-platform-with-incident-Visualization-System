@@ -53,6 +53,7 @@ Perform classification and severity analysis
 Analyze temporal trends
 
 Detect anomalies
+<a href="https://github.com/akanksha454/Cyber-Threat-Analytics-platform-with-incident-Visualization-System/blob/main/dashboard2.png"> Dashboard2</a>
 
 # Milestone 3
 
