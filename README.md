@@ -40,6 +40,7 @@ Standardize data
 Develop the star schema
 
 Establish a baseline Threat Severity Index
+<a href="https://github.com/akanksha454/Cyber-Threat-Analytics-platform-with-incident-Visualization-System/blob/main/Dashboard1.png"> Dashboard1</a>
 
 # Milestone 2 
 
