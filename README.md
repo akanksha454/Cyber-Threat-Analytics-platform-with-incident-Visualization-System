@@ -27,7 +27,7 @@ This project addresses these challenges by bringing relevant datasets into a cen
 
 The proposed implementation is divided into four milestones over eight weeks.
 
-# Milestone 1 — Weeks 1–2
+# Milestone 1 
 
 Data Integration & Incident Modeling
 
@@ -41,7 +41,7 @@ Develop the star schema
 
 Establish a baseline Threat Severity Index
 
-# Milestone 2 — Weeks 3–4
+# Milestone 2 
 
 Threat Intelligence & Temporal Analytics
 
@@ -53,7 +53,7 @@ Analyze temporal trends
 
 Detect anomalies
 
-# Milestone 3 — Weeks 5–6
+# Milestone 3
 
 Geospatial Intelligence & Response Analytics
 
@@ -65,7 +65,7 @@ Perform clustering analysis
 
 Build response performance dashboards
 
-# Milestone 4 — Weeks 7–8
+# Milestone 4 
 
 Risk Intelligence & Executive Analytics
 
