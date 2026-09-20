@@ -1,6 +1,7 @@
 # Cyber-Threat-Analytics-platform-with-incident-Visualization-System
 The Advanced Threat Incident Analytics and Security Visualization Framework consolidates threat incidents, emergency events, environmental risk indicators, operational response records, and contextual datasets into one unified analytics environment — enabling detection of hotspots, monitoring of trends, and optimized response strategies.
-🎯 Problem Statement
+
+#🎯 Problem Statement
 
 Organizations involved in public safety, critical infrastructure, enterprise security, and emergency management generate large volumes of data from different systems.
 
