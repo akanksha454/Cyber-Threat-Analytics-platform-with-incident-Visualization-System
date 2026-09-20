@@ -79,7 +79,7 @@ Develop predictive threat analytics
 Build executive command-center dashboards
 
 Validate performance and reporting
-<a href="https://github.com/akanksha454/Cyber-Threat-Analytics-platform-with-incident-Visualization-System/blob/main/dashboard4.jpeg"Dashboard4</a>
+<a href="https://github.com/akanksha454/Cyber-Threat-Analytics-platform-with-incident-Visualization-System/blob/main/dashboard4.jpeg">Dashboard4</a>
 
 # 📌 Project Outcome
 
